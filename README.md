@@ -9,6 +9,6 @@ O projeto embora fosse outro tema, resolvi criar um outro que estava pensando di
 Desenvolvi o layout de uma aplicação web relacionada à doação de itens para pessoas necessitadas pós desastres naturuais. 
 
 
-![alt text](https://github.com/andrelinos/MaratonaDev3.0/blob/master/Primeiro_Dia/Tela%20da%20aplicacao-a.png)
-![alt text](https://github.com/andrelinos/MaratonaDev3.0/blob/master/Primeiro_Dia/Tela%20da%20aplicacao-b.png)
-![alt text](https://github.com/andrelinos/MaratonaDev3.0/blob/master/Primeiro_Dia/Tela%20da%20aplicacao-c.png)
+![alt text](https://github.com/andrelinos/MaratonaDev3.0-Web/blob/master/Tela%20da%20aplicacao-a.png)
+![alt text](https://github.com/andrelinos/MaratonaDev3.0-Web/blob/master/Tela%20da%20aplicacao-b.png)
+![alt text](https://github.com/andrelinos/MaratonaDev3.0-Web/blob/master/Tela%20da%20aplicacao-c.png)
